@@ -37,18 +37,22 @@ You can install the required libraries using the following command:
 pip install numpy pandas matplotlib seaborn scikit-learn
 
 ## Usage
+
 1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/diabetes-prediction.git
-    ```
+
+```bash
+git clone https://github.com/your-username/diabetes-prediction.git
+```
 2. Navigate to the project directory:
-    ```bash
-    cd diabetes-prediction
-    ```
+   
+```bash
+cd diabetes-prediction
+```
 3. Run the script:
-    ```bash
-    python diabetes_analysis.py
-    ```
+   
+```bash
+python diabetes_analysis.py
+```
 
 ## Analysis and Visualization
 The script performs the following data analysis and visualization tasks:
